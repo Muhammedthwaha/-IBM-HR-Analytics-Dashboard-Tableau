@@ -82,10 +82,9 @@ This dashboard was built to provide HR stakeholders with:
 
 ---
 
-## 🔗 Live Dashboard & Profile Links
+## 🔗 Live Dashboard Links
 
 * **Tableau Public Dashboard:** [Portfolio Project: IBM HR Dashboard](https://public.tableau.com/app/profile/muhammed.thaha.uwais/viz/Portfolio_project_3IBMHRdashboard/Dashboard1)
-* **LinkedIn Profile:** [Muhammed Thaha Uwais](https://www.linkedin.com/in/muhammed-thaha-uwais-5b5444279/)
 
 ---
 
